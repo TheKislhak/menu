@@ -1,0 +1,62 @@
+.manu{
+    display: flex;
+    gap: 60px;
+    font-size: 50px;
+    justify-content: center;
+    list-style: none;
+    background-color: blue;
+}
+
+.manu1{
+    display: flex;
+    gap: 60px;
+    font-size: 50px;
+    justify-content: end;
+    list-style: none;
+    background-color: rgb(184, 196, 55);
+}
+
+.manu2{
+    display: flex;
+    gap: 60px;
+    font-size: 50px;
+    justify-content: start;
+    list-style: none;
+    background-color: rgb(104, 203, 178);
+}
+
+.manu3{
+    display: flex;
+    gap: 60px;
+    font-size: 50px;
+    justify-content: space-between;
+    list-style: none;
+    background-color: rgb(255, 7, 69);
+}
+
+.manu4{
+    display: flex;
+    gap: 60px;
+    font-size: 50px;
+    justify-content: space-around;
+    list-style: none;
+    background-color: rgb(220, 152, 26);
+}
+
+.manu5{
+    display: flex;
+    gap: 60px;
+    font-size: 50px;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: rgb(12, 221, 58);
+}
+
+.manu6{
+    display: flex;
+    gap: 60px;
+    font-size: 50px;
+    justify-content: center;
+    list-style: none;
+    background-color: rgb(255, 11, 239);
+}
